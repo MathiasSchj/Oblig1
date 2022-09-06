@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39d3cd7a-f1ce-4141-a760-ada19c70a0ac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="39d3cd7a-f1ce-4141-a760-ada19c70a0ac" name="Changes" comment="Utkast av oppgave 3 del 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Oblig1.iml/src/main/java/no/oslomet/cs/algdat/Oblig1/Oblig1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oblig1.iml/src/main/java/no/oslomet/cs/algdat/Oblig1/Oblig1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,8 +68,21 @@
       <workItem from="1662374581517" duration="273000" />
       <workItem from="1662374888907" duration="617000" />
       <workItem from="1662483912896" duration="25000" />
-      <workItem from="1662486723911" duration="588000" />
+      <workItem from="1662486723911" duration="785000" />
     </task>
+    <task id="LOCAL−00001" summary="Utkast av oppgave 3">
+      <created>1662487345575</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1662487345575</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Utkast av oppgave 3">
+      <created>1662487363314</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1662487363314</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +98,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Utkast av oppgave 3" />
+    <MESSAGE value="Utkast av oppgave 3 del 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Utkast av oppgave 3 del 2" />
   </component>
 </project>
