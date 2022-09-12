@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39d3cd7a-f1ce-4141-a760-ada19c70a0ac" name="Changes" comment="Utkast av oppgave 3 del 2">
-      <change beforePath="$PROJECT_DIR$/Oblig1.iml/src/main/java/no/oslomet/cs/algdat/Oblig1/Oblig1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oblig1.iml/src/main/java/no/oslomet/cs/algdat/Oblig1/Oblig1.java" afterDir="false" />
+    <list default="true" id="39d3cd7a-f1ce-4141-a760-ada19c70a0ac" name="Changes" comment="Utkast oppgave 8 del 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,10 @@
       <workItem from="1662374581517" duration="273000" />
       <workItem from="1662374888907" duration="617000" />
       <workItem from="1662483912896" duration="25000" />
-      <workItem from="1662486723911" duration="1425000" />
+      <workItem from="1662486723911" duration="2346000" />
+      <workItem from="1662543789642" duration="32000" />
+      <workItem from="1662543854983" duration="601000" />
+      <workItem from="1662969808429" duration="4701000" />
     </task>
     <task id="LOCAL−00001" summary="Utkast av oppgave 3">
       <created>1662487345575</created>
@@ -87,7 +90,13 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1662487515792</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Utkast av oppgave 3 del 3">
+      <created>1662488184454</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1662488184454</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,10 +112,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Utkast av oppgave 3" />
     <MESSAGE value="Utkast av oppgave 3 del 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Utkast av oppgave 3 del 2" />
+    <MESSAGE value="Utkast av oppgave 3 del 3" />
+    <MESSAGE value="Utkast av oppgave 2" />
+    <MESSAGE value="Utkast oppgave 8" />
+    <MESSAGE value="Utkast oppgave 8 del 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Utkast oppgave 8 del 2" />
   </component>
 </project>
